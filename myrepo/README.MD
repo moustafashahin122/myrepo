@@ -1,1 +1,1 @@
-![alt text](./amelie-1.jpg)
+![alt text](amelie-1.jpg)
